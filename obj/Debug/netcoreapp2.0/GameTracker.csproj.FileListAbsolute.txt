@@ -1,0 +1,10 @@
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/bin/Debug/netcoreapp2.0/GameTracker.deps.json
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/bin/Debug/netcoreapp2.0/GameTracker.runtimeconfig.json
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/bin/Debug/netcoreapp2.0/GameTracker.runtimeconfig.dev.json
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/bin/Debug/netcoreapp2.0/GameTracker.dll
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/bin/Debug/netcoreapp2.0/GameTracker.pdb
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/obj/Debug/netcoreapp2.0/GameTracker.csproj.CoreCompileInputs.cache
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/obj/Debug/netcoreapp2.0/GameTracker.AssemblyInfoInputs.cache
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/obj/Debug/netcoreapp2.0/GameTracker.AssemblyInfo.cs
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/obj/Debug/netcoreapp2.0/GameTracker.dll
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolASP_MVC/GameTracker/obj/Debug/netcoreapp2.0/GameTracker.pdb
