@@ -12,14 +12,16 @@ namespace GameTracker.Controllers
   {
     public IActionResult Index()
     {
-      return View();
+      return View(Models.Character.GetAll());
     }
 
     public IActionResult Create(string characterName)
     {
-      var model = new GameTracker.Models.Character();
-      model.Name = characterName;
-      return View("Index", model);
+      Models.Character.Create(characterName);
+      return RedirectToAction("Index");
+      // var model = new GameTracker.Models.Character();
+      // model.Name = characterName;
+      // return View("Index", model);
     }
 
     public IActionResult About()
