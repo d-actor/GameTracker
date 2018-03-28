@@ -24,6 +24,8 @@ namespace GameTracker.Controllers
       // return View("Index", model);
     }
 
+// TODO make destroy action
+
     public IActionResult About()
     {
       ViewData["Message"] = "Game Tracker Application description page.";
