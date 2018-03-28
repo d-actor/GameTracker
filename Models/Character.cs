@@ -14,6 +14,10 @@ namespace GameTracker.Models
       GlobalVariables.Characters.Add(character);
       // lists have an Add() function to add objects to the list
     }
+    public static void Destroy(string characterName)
+    {
+      
+    }
     public static List<Character> GetAll()
     {
       if(GlobalVariables.Characters == null)

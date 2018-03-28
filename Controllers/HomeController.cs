@@ -26,14 +26,14 @@ namespace GameTracker.Controllers
 
     public IActionResult About()
     {
-      ViewData["Message"] = "Your application description page.";
+      ViewData["Message"] = "Game Tracker Application description page.";
 
       return View();
     }
 
     public IActionResult Contact()
     {
-      ViewData["Message"] = "Your contact page.";
+      ViewData["Message"] = "Dan's contact page.";
 
       return View();
     }
